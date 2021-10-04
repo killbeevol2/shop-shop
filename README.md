@@ -48,11 +48,8 @@ A full-stack application utilizing CRUD functionality in the User's checkout sho
 
 ## Installation
 
-Dependencies are already written in the package.json, but before running the application, type in "npm install" in your terminal to install all of the dependencies.
+Dependencies are already written in the package.json, but before running the application, type in "npm install" in your terminal to install all of the dependencies.  Afterwards type in "npm start" at the root to start the server.
 
-## Usage
-
-Great full-stack application for users that love to read and save books they love or can be used to save books they WANT to read.
 
 ## Sample
 
@@ -61,7 +58,7 @@ Great full-stack application for users that love to read and save books they lov
 
 ## DeployedLink
 
-[Deployed Link]()
+[Deployed Link](https://blooming-river-08717.herokuapp.com/)
 
 ## License
 
